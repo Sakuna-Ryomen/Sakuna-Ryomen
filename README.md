@@ -5,9 +5,8 @@ I am a Full-Stack Developer in progress and a final-year BSc IT student passiona
 👯 𝙾𝚙𝚎𝚗 𝚏𝚘𝚛 𝚌𝚘𝚍𝚎 𝚌𝚘𝚕𝚕𝚊𝚋𝚜 — 𝚆𝚎𝚋 𝙰𝙿𝙿𝚜, 𝙰𝙸 𝚋𝚘𝚝𝚜 & 𝙾𝚙𝚎𝚗-𝚂𝚘𝚞𝚛𝚌𝚎.<br>
 🎮 𝙲𝚊𝚜𝚞𝚊𝚕 𝙶𝚊𝚖𝚎𝚛 | 𝙲𝚘𝚍𝚎 𝚋𝚢 𝚍𝚊𝚢, 𝚌𝚕𝚞𝚝𝚌𝚑 𝚙𝚕𝚊𝚢𝚜 𝚋𝚢 𝚗𝚒𝚐𝚑𝚝.<br>
 💬 𝙳𝚖𝚜 𝚘𝚙𝚎𝚗 — 𝚊𝚕𝚠𝚊𝚢𝚜 𝚑𝚎𝚊𝚛 𝚏𝚘𝚛 𝚌𝚘𝚍𝚎, 𝚌𝚑𝚊𝚝𝚜 𝚊𝚗𝚍 𝚌𝚘𝚖𝚋𝚘𝚜.<br>
-😄 𝙷𝚎/𝙷𝚒𝚖
-⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝 : 𝙸 𝚕𝚎𝚟𝚎𝚕 𝚞𝚙 𝚒𝚗 𝚌𝚘𝚍𝚎 & 𝚐𝚊𝚖𝚎𝚜 — 𝚘𝚗𝚎 𝚡𝚙 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎.  
-
+😄 𝙷𝚎/𝙷𝚒𝚖<br>
+⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝 : 𝙸 𝚕𝚎𝚟𝚎𝚕 𝚞𝚙 𝚒𝚗 𝚌𝚘𝚍𝚎 & 𝚐𝚊𝚖𝚎𝚜 — 𝚘𝚗𝚎 𝚡𝚙 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.avi4u_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avinashmaurya261/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinashmaurya261@gmail.com) 
