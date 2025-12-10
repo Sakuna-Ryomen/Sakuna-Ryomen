@@ -1,9 +1,12 @@
 # 💫 About Me:
-<br>I'm Avinash Maurya, a Final-Year BSc IT student who enjoys building practical projects in web development, AI, and data-focused applications. I work with technologies like HTML, CSS, JavaScript, Python, React, ASP.NET (C#) and databases such as SQLite and PostgreSQL.<br><br>
-
-I’m currently developing projects like EduVora (academic portal), ProductSenseAI (sentiment analysis), an AI voice assistant (Luna), and a few full-stack applications for learning and real use.<br><br>
-
-My main focus right now is improving my skills in data analysis, strengthening my full-stack development, and building projects that solve real problems.<br><br>
+I am a Full-Stack Developer in progress and a final-year BSc IT student passionate about building smart academic systems and AI-powered tools.<br><br>
+🔭 𝙸’𝚖 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 EduVora – Smart Academic Portal, 𝚆𝚎𝚋 𝚃𝚎𝚌𝚑𝚜 & 𝙸𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚄𝙸𝚜.
+🌱 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 React, Full Stack, 𝙼𝙻 & 𝙰𝙿𝙸 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠𝚜.
+👯 𝙾𝚙𝚎𝚗 𝚏𝚘𝚛 𝚌𝚘𝚍𝚎 𝚌𝚘𝚕𝚕𝚊𝚋𝚜 — 𝚆𝚎𝚋 𝙰𝙿𝙿𝚜, 𝙰𝙸 𝚋𝚘𝚝𝚜 & 𝙾𝚙𝚎𝚗-𝚂𝚘𝚞𝚛𝚌𝚎.
+🎮 𝙲𝚊𝚜𝚞𝚊𝚕 𝙶𝚊𝚖𝚎𝚛 | 𝙲𝚘𝚍𝚎 𝚋𝚢 𝚍𝚊𝚢, 𝚌𝚕𝚞𝚝𝚌𝚑 𝚙𝚕𝚊𝚢𝚜 𝚋𝚢 𝚗𝚒𝚐𝚑𝚝.
+💬 𝙳𝚖𝚜 𝚘𝚙𝚎𝚗 — 𝚊𝚕𝚠𝚊𝚢𝚜 𝚑𝚎𝚊𝚛 𝚏𝚘𝚛 𝚌𝚘𝚍𝚎, 𝚌𝚑𝚊𝚝𝚜 𝚊𝚗𝚍 𝚌𝚘𝚖𝚋𝚘𝚜.
+😄 𝙷𝚎/𝙷𝚒𝚖
+⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝 : 𝙸 𝚕𝚎𝚟𝚎𝚕 𝚞𝚙 𝚒𝚗 𝚌𝚘𝚍𝚎 & 𝚐𝚊𝚖𝚎𝚜 — 𝚘𝚗𝚎 𝚡𝚙 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎.  
 
 
 ## 🌐 Socials:
