@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m passionate about building practical, impactful tech solutions—especially in web development, AI-driven systems, and data-focused applications. I enjoy learning new technologies, solving real problems, and creating projects that enhance student and user experiences.<br><br>🔧 What I Work On<br><br>EduVora – Smart Academic Portal (Role-based student & admin system)<br><br>ProductSenseAI – Multimodal Sentiment Analysis<br><br>Luna – AI Voice Desktop Assistant (Python + Gemini + ElevenLabs)<br><br>Virtual Cryptocurrency Trading Platform (React + Spring Boot + PostgreSQL)<br><br>E-commerce Website for Dry Fruits & Spices<br><br>🛠️ Skills & Technologies<br><br>Languages: C, C++, Python, C#, JavaScript<br><br>Web Technologies: HTML, CSS, ASP.NET (C#), React<br><br>Databases: SQLite, PostgreSQL<br><br>APIs & Integrations: REST APIs, AI/ML Models, Voice & NLP Systems<br><br>Other Interests: Data Analytics, UI/UX, Automation<br><br>🎯 Current Focus<br><br>Becoming a skilled Data Analyst<br><br>Building modern, interactive UI/UX for personal portfolio projects<br><br>Expanding expertise in AI, full-stack development, and data pipelines
+<br>I'm Avinash Maurya, a Final-Year BSc IT student who enjoys building practical projects in web development, AI, and data-focused applications. I work with technologies like HTML, CSS, JavaScript, Python, React, ASP.NET (C#) and databases such as SQLite and PostgreSQL.<br><br>
+
+I’m currently developing projects like EduVora (academic portal), ProductSenseAI (sentiment analysis), an AI voice assistant (Luna), and a few full-stack applications for learning and real use.<br><br>
+
+My main focus right now is improving my skills in data analysis, strengthening my full-stack development, and building projects that solve real problems.<br><br>
 
 
 ## 🌐 Socials:
